@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Game GPU Capture"
+  short_description: "Capture complete GPU frames from Windows Unity games"
+  default_prompt: "Use $game-gpu-capture to acquire a complete GPU frame capture from the target Windows Unity game, verify the saved file, and restore temporary configurations."

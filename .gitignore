@@ -1,0 +1,16 @@
+# Exclude local runtime artifacts and credentials from public repositories.
+__pycache__/
+*.py[cod]
+*.rdc
+*.dmp
+*.log
+*.jsonl
+*.zip
+.env
+.env.*
+!.env.example
+profile_manifest.json
+file_receipt*.json
+capture_result*.json
+vk_loader_settings.json
+capture_layer.json
